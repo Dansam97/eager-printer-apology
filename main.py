@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Sorry I jammed again. You feed me damp paper, staple my insides, then act shocked when I choke on your report."
+ENTRY = "Sorry I jammed on page 47 of 48. You staple my insides, feed me damp paper, then act shocked when I choke."
 
 
 def main():
